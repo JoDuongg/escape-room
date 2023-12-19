@@ -38,13 +38,13 @@ setTimeout(function(){
 setTimeout(function(){
   paragraph2.style.display = "inline-block";
   typeEffect(paragraph2, speed);
-}, delay * 5); // Adjust delay as needed
+}, delay * 23); // Adjust delay as needed
 
 // type effect for body (paragraph3)
 setTimeout(function(){
   paragraph3.style.display = "inline-block";
   typeEffect(paragraph3, speed);
-}, delay * 9); // Adjust delay as needed
+}, delay * 39); // Adjust delay as needed
 
 document.getElementById('myButton').addEventListener('click', function() {
   // Replace 'another-page.html' with the path to your desired page
