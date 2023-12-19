@@ -45,3 +45,8 @@ setTimeout(function(){
   paragraph3.style.display = "inline-block";
   typeEffect(paragraph3, speed);
 }, delay * 3); // Adjust delay as needed
+
+document.getElementById('myButton').addEventListener('click', function() {
+  // Replace 'another-page.html' with the path to your desired page
+  window.location.href = "escapeRoom.html";
+});
