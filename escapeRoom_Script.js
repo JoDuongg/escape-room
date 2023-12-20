@@ -605,7 +605,7 @@ function calculateSumTotal() {
 
 function endGame() {
   //Checks whether user is correct
-  if (sumTotal == positionG) {
+  if (positionA==9 && bPlus==false && positionC==7 && dPlus==true && positionE==4) {
     solvedMessage();
     mathPuzzleSolved = true; // Global var
     //unlock 2nd lock
