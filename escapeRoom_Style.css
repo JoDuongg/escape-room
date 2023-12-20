@@ -912,3 +912,9 @@ input[type=number] {
   justify-self: center;
   align-self: center;
 }
+
+#escaped h2 {
+  font-size: 50px;
+  justify-self: center-50;
+  align-self: center;
+}
