@@ -915,6 +915,6 @@ input[type=number] {
 
 #escaped h2 {
   font-size: 50px;
-  justify-self: center-10;
+  justify-self: center;
   align-self: center;
 }
